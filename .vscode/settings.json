@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "D:\\Anaconda3\\envs\\st\\python.exe",
+    "r.alwaysUseActiveTerminal": true,
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true,
+    "r.rterm.windows": "D:/anaconda3/Scripts/radian"
+}
